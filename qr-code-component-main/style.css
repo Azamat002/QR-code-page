@@ -1,0 +1,50 @@
+ html {
+            font-family: Outfit;
+            background-color: hsl(212, 45%, 89%);
+            display: flex;
+            justify-content: center;
+
+        }
+
+        .attribution {
+            font-size: 16px;
+            text-align: center;
+            margin-top: 20px;
+            color: azure;
+        }
+
+        .attribution a {
+            color: cornflowerblue;
+        }
+
+.main {
+        background-color: hsl(0, 0%, 100%);
+        height: 700px;
+        width: 400px;
+        text-align: center;
+        border-radius: 18px;
+
+
+    }
+
+    .image-qr-code {
+        height: 360px;
+        width: 360px;
+        border-radius: 24px;
+        padding: 12px;
+    }
+
+    .headWord {
+        color: hsl(218, 44%, 22%);
+        font-size: 32px;
+    }
+
+    .description {
+        color: hsl(220, 15%, 55%);
+        font-size: 25px;
+
+    }
+
+    .texts {
+        padding: 14px;
+    }
